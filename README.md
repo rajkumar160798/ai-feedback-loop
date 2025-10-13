@@ -101,3 +101,4 @@ See /notebooks/ai_feedback_loop_visuals.ipynb for:
 This project is licensed under the [MIT License](LICENSE).
 
 https://www.credly.com/badges/284a45d0-fe3f-4777-9770-e219e32c3c9e/public_url
+https://sites.google.com/robertsonmarketing.com/digitalassetdownloadportal/digital-toolkit?pli=1 
