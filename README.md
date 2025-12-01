@@ -1,4 +1,4 @@
-# AI-in-the-Loop: Feedback-Based Retraining Pipeline
+# AI-in-the-Loop: Feedback-Based Retraining Pipeline 
 
 This project demonstrates how to build a real-world **AI-in-the-loop system** that continuously improves itself using feedback. The system detects prediction errors, logs corrections, and retrains the model automatically.
 
