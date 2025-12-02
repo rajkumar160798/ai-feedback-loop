@@ -1,0 +1,24 @@
+Overall call-after rate (for October) is around 3–5% (e.g., 3.3%, 3.4%, 5.6%).
+
+On your page-level table, many rows show 7–12% call-after rate, and:
+
+When he takes a simple average of the column in Excel, it shows ~11%.
+
+Even when filtering pages whose name contains “login”, it stays around 10%.
+
+He finds it odd that login pages show ~7–11% when overall is ~3–5%.
+
+He suspects:
+
+Possible double counting of sessions or calls.
+
+Or that the metric definition at the page level is not the same as how they compute overall call-after rate.
+
+He also hints:
+
+People visit multiple pages per session, so page-level averages can be higher than the overall rate—but “double seems suspicious”.
+
+He wants you to “look at the raw data” and confirm why these numbers are so high.
+
+So your task:
+👉 Either find a bug in your SQL / logic, or show clearly that the higher number is expected given how the subset or page-level metric is defined.
